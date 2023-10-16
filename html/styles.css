@@ -1,0 +1,36 @@
+html{
+    background-color: rgb(29, 29, 29);
+    color: white;
+    font-style: arial;
+}
+
+.header{
+    position: relative;
+    text-align: center;
+    font-size: 120px;
+}
+
+.searchbar{
+    position: relative;
+    text-align: center;
+}
+
+.find{
+    position: relative;
+    text-align: center;
+}
+
+.try{
+    position: relative;
+    text-align: center;
+}
+
+.gmail{
+    position: relative;
+    text-align: right;
+}
+
+.images{
+    position: relative;
+    text-align: right;
+}
